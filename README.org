@@ -1,10 +1,10 @@
 * Spring 2022 - Lab 11
 
-* Last name:
+* Last name: Mapoy 
 
-* First name:
+* First name: Crystal 
 
-* GitHub username:
+* GitHub username: crystalmapoy
 
 * Notes:
 
